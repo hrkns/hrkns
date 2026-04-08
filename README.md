@@ -6,8 +6,8 @@
 
 <p>
   <ul>
-    <li><a href="https://www.linkedin.com/in/jrosendo" title="LinkedIn - Alicia Sykes">LinkedIn</a></li>
-    <li><a href="https://www.reddit.com/user/hrkns" title="Reddit - u/lissy93">Reddit</a></li>
-    <li><a href="https://jrosendo.com/" title="Personal Website - aliciasykes.com">Personal Website</a></li>
+    <li><a href="https://www.linkedin.com/in/jrosendo" title="LinkedIn">LinkedIn</a></li>
+    <li><a href="https://www.reddit.com/user/hrkns" title="Reddit">Reddit</a></li>
+    <li><a href="https://jrosendo.com/" title="Personal Website">Personal Website</a></li>
   </ul>
 </p>
