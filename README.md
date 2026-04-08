@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center" title="...and I'm happy to see you here :)">𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 José</h1>
 
-<!--
-**hrkns/hrkns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I analyze, discuss, design, implement and improve software solutions.</p>
 
-Here are some ideas to get you started:
+<p>This is my Github and the followings are my socials:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/jrosendo" title="LinkedIn - Alicia Sykes">LinkedIn</a></li>
+    <li><a href="https://www.reddit.com/user/hrkns" title="Reddit - u/lissy93">Reddit</a></li>
+    <li><a href="https://jrosendo.com/" title="Personal Website - aliciasykes.com">Personal Website</a></li>
+  </ul>
+</p>
