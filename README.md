@@ -6,8 +6,9 @@
 
 <p>
   <ul>
-    <li><a href="https://www.linkedin.com/in/jrosendo" title="LinkedIn">LinkedIn</a></li>
-    <li><a href="https://www.reddit.com/user/hrkns" title="Reddit">Reddit</a></li>
     <li><a href="https://jrosendo.com/" title="Personal Website">Personal Website</a></li>
+    <li><a href="https://www.linkedin.com/in/jrosendo" title="LinkedIn">LinkedIn</a></li>
+    <li><a href="https://www.youtube.com/@josendo101" title="YouTube">YouTube</a></li>
+    <li><a href="https://www.reddit.com/user/hrkns" title="Reddit">Reddit</a></li>
   </ul>
 </p>
